@@ -14,7 +14,7 @@ st.markdown("<h2 style='text-align: left; font-size: 14px; color: black'>Student
 st.markdown("<h2 style='text-align: Center; font-size: 30px; color: black'>Assignment 3- Building Interactive Visualizations with Streamlit </h2>", unsafe_allow_html=True)
 
 # Load the data
-df = pd.read_csv(r"C:\\Users\\ayaez\\Desktop\\Courses 2023\\Semester 2\\MSBA225_Data visualization and communication\\Assignment 2\\concrete.csv")
+df = pd.read_csv(r"C:\Users\ayaez\Data_Assignment/concrete.csv")
 
 #Cleaning the Data from any Outliers We had 1030 data before cleaning. 
 
