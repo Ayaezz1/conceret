@@ -15,7 +15,7 @@ st.markdown("<h2 style='text-align: Center; font-size: 30px; color: black'>Assig
 
 # Load the data
 
-df = pd.read_csv(concrete.csv)
+df = pd.read_csv("concrete.csv")
 
 #Cleaning the Data from any Outliers We had 1030 data before cleaning. 
 
